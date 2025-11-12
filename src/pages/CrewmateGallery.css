@@ -1,0 +1,28 @@
+p {
+    margin: 0;
+    font-size: 18px;
+    margin-bottom: 60px;
+}
+
+.create-text {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 500px;
+}
+
+.create {
+    text-decoration: none;
+
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically */
+  flex-wrap: wrap;          /* so multiple cards wrap nicely */              /* spacing between cards */
+  text-align: center;
+
+}

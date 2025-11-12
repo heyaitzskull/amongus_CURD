@@ -1,0 +1,17 @@
+.home-container {
+  text-align: center;
+}
+
+.crewmateImg {
+  width: 550px;
+  height: auto;
+  margin: 0;
+}
+
+h3 {
+  font-weight: 200;
+}
+
+h1 {
+  font-size: 20px;
+}
