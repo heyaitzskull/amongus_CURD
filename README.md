@@ -33,7 +33,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![amongus-GoogleChrome2025-11-1203-35-53-ezgif com-crop](https://github.com/user-attachments/assets/2e4d7d07-91ae-413d-ada3-c06f2cb58806)
+![amongus_gif - Made with Clipchamp (1)](https://github.com/user-attachments/assets/2277b53f-74c1-4ef5-94a5-1308db9d8e85)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif
